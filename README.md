@@ -74,4 +74,4 @@ All 23 outputs are in [`output/query_results.txt`](output/query_results.txt).
 - Senior-level staff (41-55) are concentrated in IT, Operations and Finance.
 
 ## Author
-Supriya Narayan Katkar
+Supriya Katkar
